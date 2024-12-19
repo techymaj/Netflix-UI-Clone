@@ -168,6 +168,11 @@ body {
   letter-spacing: 1px;
 }
 
+.primary__button a {
+  text-decoration: none;
+  color: #fff;
+}
+
 .feature {
   border-top: 8px solid #222;
   padding: 2rem 1rem;
